@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2090706545579377006",
+    "created_at": "2026-08-21T08:56:44.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090724773726986367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090724773726986367",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090706545579377006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 猫娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2090706545579377006",
+        "created_at": "2026-08-21T08:56:44.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090724773726986367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090724773726986367",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090706545579377006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 猫娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2090706543540920320"
+          ]
+        },
+        "author_id": "2090032448050524161",
+        "conversation_id": "2090706545579377006",
+        "created_at": "2026-08-21T07:44:18.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090706545579377006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090706545579377006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抑制"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090724773726986367",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。",
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090716380320436618",
+        "name": "岐哥，梦想死了。5.0",
+        "pinned_tweet_id": "2090040601848827983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 172,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

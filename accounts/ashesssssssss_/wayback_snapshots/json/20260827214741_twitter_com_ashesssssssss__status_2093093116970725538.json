@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2093091738009432445",
+    "created_at": "2026-08-27T21:47:41.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T22:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093093116970725538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "C103ofsixteen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093093116970725538",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093091738009432445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C103ofsixteen 我的眼睛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12633,
+        "height": 1280,
+        "media_key": "13_2093091708737327105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093091708737327105/img/qHfGB4yvAFiOiZBq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093091708737327105/vid/avc1/320x568/z7oghT4XW2oZq_Wf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093091708737327105/vid/avc1/480x852/zbTwDJYVcVHEosZ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093091708737327105/vid/avc1/720x1280/k89TGiqalHXyg-pu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093091708737327105/pl/Nz7Kfws8UmOaUTiz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2093091738009432445",
+        "created_at": "2026-08-27T21:47:41.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T22:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093093116970725538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "C103ofsixteen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093093116970725538",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093091738009432445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C103ofsixteen 我的眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093091708737327105"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "conversation_id": "2093091738009432445",
+        "created_at": "2026-08-27T21:42:12.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T22:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093091738009432445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eY0ZYirCpu",
+              "end": 23,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2093091738009432445/video/1",
+              "media_key": "13_2093091708737327105",
+              "start": 0,
+              "url": "https://t.co/eY0ZYirCpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093091738009432445",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093091708737327105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eY0ZYirCpu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093093116970725538",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 78,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️👁️｜男｜可能线下｜波奇｜双性恋｜恋人♥️♥@aruannie512｜宠物@S34sonSt ｜各方面都不健全｜各方面都史上最倒霉的人 | 蓝v互fo | 老人|30解锁好友位，丢包40%ping670导致的思考延迟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aruannie512"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "S34sonSt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c103ofsixteen1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c103ofsixteen1",
+                "start": 0,
+                "url": "https://t.co/ZeFZXlKNBF"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093092805287768511",
+        "name": "僧夏猫修🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092487436739948544/yO_1Xawz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 972,
+          "like_count": 6888,
+          "listed_count": 5,
+          "media_count": 2004,
+          "tweet_count": 5525
+        },
+        "url": "https://t.co/ZeFZXlKNBF",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

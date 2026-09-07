@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2096210276937069054",
+    "created_at": "2026-09-05T12:54:06.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096220325432414676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1674492147079483393",
+          "start": 0,
+          "username": "DA98764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096220325432414676",
+    "in_reply_to_user_id": "1674492147079483393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096210276937069054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DA98764 好地狱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096210268070313984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc8IfLbgAAXHUY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2096210276937069054",
+        "created_at": "2026-09-05T12:54:06.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096220325432414676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1674492147079483393",
+              "start": 0,
+              "username": "DA98764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096220325432414676",
+        "in_reply_to_user_id": "1674492147079483393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096210276937069054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DA98764 好地狱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096210268070313984"
+          ]
+        },
+        "author_id": "1674492147079483393",
+        "conversation_id": "2096210276937069054",
+        "created_at": "2026-09-05T12:14:10.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096210276937069054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2BDvr02Ie",
+              "end": 61,
+              "expanded_url": "https://x.com/DA98764/status/2096210276937069054/photo/1",
+              "media_key": "3_2096210268070313984",
+              "start": 38,
+              "url": "https://t.co/E2BDvr02Ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096210276937069054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096210268070313984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本身是打算准备到时用的碳，看到这宣传语有种催我赶紧上路的感觉，给我整笑了😹 https://t.co/E2BDvr02Ie"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096220325432414676",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T18:57:01.000Z",
+        "description": "是个只会散播负能量的肮脏垃圾",
+        "id": "1674492147079483393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096210276937069054",
+        "name": "D",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674492147079483393/1701019098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051858746863951872/DjWCG7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 130,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "DA98764",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

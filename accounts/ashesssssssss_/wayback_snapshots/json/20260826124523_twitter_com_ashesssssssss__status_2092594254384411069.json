@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2092416709949091920",
+    "created_at": "2026-08-26T12:45:23.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092594254384411069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "f_fannie427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092594254384411069",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092522902881227084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f_fannie427 不是（\n当时我在睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2092416709949091920",
+        "created_at": "2026-08-26T12:45:23.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092594254384411069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "f_fannie427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092594254384411069",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092522902881227084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f_fannie427 不是（\n当时我在睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "2092416709949091920",
+        "created_at": "2026-08-26T08:01:51.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092522902881227084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092522902881227084",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092416709949091920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ 是人数满了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092594254384411069",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 73,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定 傻小孩 丑 穷 冒失\nenby    hrt:23.10.3",
+        "id": "1484488362182467584",
+        "is_identity_verified": false,
+        "location": "云",
+        "most_recent_tweet_id": "2092565509518848094",
+        "name": "安宁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484488362182467584/1770582215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026613117493587969/cKMcsiEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 774,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "f_fannie427",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

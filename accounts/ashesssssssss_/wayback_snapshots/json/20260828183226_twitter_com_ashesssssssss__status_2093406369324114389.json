@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2093149095011696766",
+    "created_at": "2026-08-28T18:32:26.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T19:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093406369324114389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093406369324114389",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093403358673436686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2093149095011696766",
+        "created_at": "2026-08-28T18:32:26.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093406369324114389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093406369324114389",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093403358673436686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2093149095011696766",
+        "created_at": "2026-08-28T18:20:28.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093403358673436686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093403358673436686",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093149095011696766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ 快进到bs2狂鸟唱歌🎤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093406369324114389",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 73,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "爱玩美少女游戏和打音游\n同好可以找我扩列聊天\n会看成分回fo",
+        "id": "1225559787414401025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093403358673436686",
+        "name": "Sangu1s",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225559787414401025/1778063778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 142,
+          "like_count": 21772,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2094343056166400157",
+    "created_at": "2026-08-31T08:34:30.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094343056166400157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943361769814261760",
+          "start": 3,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094343056166400157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094290577068339371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sadsadcatc: 不是那个叫汤普尼的,你干嘛到处骚扰人问关于我的事,我跟那些人完全都不熟的好吧。而且我跟你也不熟的好吧,你脑子里都装得什么,好恶心能不能不要骚扰我还有别人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2094343056166400157",
+        "created_at": "2026-08-31T08:34:30.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094343056166400157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943361769814261760",
+              "start": 3,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094343056166400157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094290577068339371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sadsadcatc: 不是那个叫汤普尼的,你干嘛到处骚扰人问关于我的事,我跟那些人完全都不熟的好吧。而且我跟你也不熟的好吧,你脑子里都装得什么,好恶心能不能不要骚扰我还有别人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "2094290577068339371",
+        "created_at": "2026-08-31T05:05:58.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094290577068339371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094290577068339371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是那个叫汤普尼的,你干嘛到处骚扰人问关于我的事,我跟那些人完全都不熟的好吧。而且我跟你也不熟的好吧,你脑子里都装得什么,好恶心能不能不要骚扰我还有别人了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094343056166400157",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 81,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n被变态缠上了，如果有人找你帮忙问关于我的事不要回，我和他没有任何关系\n生产日期2004 mtf 持证含糖 长居武汉 \n重度精神病……\n愿世界化作所有人同等幸福的地狱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2094317719038685647",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2094290577068339371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1459,
+          "like_count": 22489,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 7531
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

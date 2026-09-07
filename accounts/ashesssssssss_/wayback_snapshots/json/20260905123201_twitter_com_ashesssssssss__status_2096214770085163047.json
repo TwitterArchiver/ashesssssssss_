@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2096173950292345039",
+    "created_at": "2026-09-05T12:32:01.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096214770085163047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943361769814261760",
+          "start": 0,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096214770085163047",
+    "in_reply_to_user_id": "1943361769814261760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096190714409562196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadcatc （不要男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2096173950292345039",
+        "created_at": "2026-09-05T12:32:01.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096214770085163047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943361769814261760",
+              "start": 0,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096214770085163047",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096190714409562196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadcatc （不要男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "2096173950292345039",
+        "created_at": "2026-09-05T10:56:26.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096190714409562196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096190714409562196",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096173950292345039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ 来个男娘妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096214770085163047",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n被变态缠上了，如果有人找你帮忙问关于我的事不要回，我和他没有任何关系\n2004 mtf 持证含糖 长居武汉 \n我是重度精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cnvkA"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2096207241624043628",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2096175141629915486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 1485,
+          "like_count": 23472,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 7756
+        },
+        "url": "https://t.co/xH3r8cnvkA",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

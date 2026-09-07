@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2095432138040447268",
+    "created_at": "2026-09-03T11:57:15.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095481244578644394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092394339292807168",
+          "start": 0,
+          "username": "nyu5u2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095481244578644394",
+    "in_reply_to_user_id": "2092394339292807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095432138040447268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyu5u2 解离了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2095432138040447268",
+        "created_at": "2026-09-03T11:57:15.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095481244578644394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092394339292807168",
+              "start": 0,
+              "username": "nyu5u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095481244578644394",
+        "in_reply_to_user_id": "2092394339292807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095432138040447268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyu5u2 解离了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092394339292807168",
+        "conversation_id": "2095432138040447268",
+        "created_at": "2026-09-03T08:42:07.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095432138040447268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyu5u2/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/nyu5u2/status/2095431772041355601",
+              "start": 40,
+              "url": "https://t.co/tKccCdkiVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095432138040447268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095431772041355601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉就是。。很懵逼就对了不知道咋真的懵啊，感觉……就是组织不了语音懵逼就是懵逼 https://t.co/tKccCdkiVf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095481244578644394",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 81,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T23:31:45.000Z",
+        "description": "我是忧爱",
+        "id": "2092394339292807168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095444210887565665",
+        "name": "yoi",
+        "pinned_tweet_id": "2092520278148411831",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092394339292807168/1787701863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093550848890818560/uI2A5Ny-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "nyu5u2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

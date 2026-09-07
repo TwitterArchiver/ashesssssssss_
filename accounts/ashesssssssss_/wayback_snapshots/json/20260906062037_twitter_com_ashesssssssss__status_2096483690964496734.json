@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2096483690964496734",
+    "created_at": "2026-09-06T06:20:37.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096483690964496734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadsadcatc/sta…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/sadsadcatc/status/2096233991565443301",
+          "start": 87,
+          "url": "https://t.co/G0gmkWf4bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096483690964496734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096233991565443301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你踏马给我清醒一点，你是一名中国男人，是世界上最崇高的群体，你正在被东亚去雄计划洗脑，你在用药物毁了自己的身体，自己的未来，你小子给我振作起来，立刻停用药物，并开始肌肉训练 https://t.co/G0gmkWf4bn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2096483690964496734",
+        "created_at": "2026-09-06T06:20:37.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096483690964496734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadsadcatc/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/sadsadcatc/status/2096233991565443301",
+              "start": 87,
+              "url": "https://t.co/G0gmkWf4bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096483690964496734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096233991565443301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你踏马给我清醒一点，你是一名中国男人，是世界上最崇高的群体，你正在被东亚去雄计划洗脑，你在用药物毁了自己的身体，自己的未来，你小子给我振作起来，立刻停用药物，并开始肌肉训练 https://t.co/G0gmkWf4bn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "2096233991565443301",
+        "created_at": "2026-09-05T13:48:24.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096233991565443301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/su2024930/stat…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/su2024930/status/2096221303317606830",
+              "start": 89,
+              "url": "https://t.co/w6tQ1UeTD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096233991565443301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096221303317606830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵 https://t.co/w6tQ1UeTD5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2096483690964496734",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 85,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n2004 mtf 持证含糖 长居武汉 \n想交朋友\n我是精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2096483624652800362",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2096175141629915486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1488,
+          "like_count": 23662,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 7782
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

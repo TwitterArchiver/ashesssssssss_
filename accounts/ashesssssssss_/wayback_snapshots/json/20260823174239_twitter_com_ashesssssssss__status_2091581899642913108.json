@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2091530948823437325",
+    "created_at": "2026-08-23T17:42:39.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091581899642913108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690146503158108163",
+          "start": 0,
+          "username": "shuangyunonly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091581899642913108",
+    "in_reply_to_user_id": "1690146503158108163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091530948823437325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuangyunonly 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2091530942292930560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQacT4QbsAA61b2.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2091530948823437325",
+        "created_at": "2026-08-23T17:42:39.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091581899642913108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690146503158108163",
+              "start": 0,
+              "username": "shuangyunonly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091581899642913108",
+        "in_reply_to_user_id": "1690146503158108163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091530948823437325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangyunonly 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091530942292930560"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2091530948823437325",
+        "created_at": "2026-08-23T14:20:11.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091530948823437325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXHkBqMVH3",
+              "end": 92,
+              "expanded_url": "https://x.com/shuangyunonly/status/2091530948823437325/photo/1",
+              "media_key": "3_2091530942292930560",
+              "start": 69,
+              "url": "https://t.co/NXHkBqMVH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091530948823437325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091530942292930560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心血来潮，抽奖，仅互fo\n参与方式：点赞本贴\n抽一个32rmb和一个20rmb\n各自独立计算\n截止时间：2026.8.24  23：00 https://t.co/NXHkBqMVH3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091581899642913108",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 65,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2091562369193500919",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 248,
+          "like_count": 15336,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

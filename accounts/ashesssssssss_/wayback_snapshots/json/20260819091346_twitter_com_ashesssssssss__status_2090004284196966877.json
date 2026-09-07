@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2090004284196966877",
+    "created_at": "2026-08-19T09:13:46.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090004284196966877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AmeAsukaLangle…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2089838232662065259",
+          "start": 66,
+          "url": "https://t.co/m2xUbChwtn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090004284196966877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089838232662065259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们七夕约会可以带上我吗…我就坐在旁边吃，一句话不说，你们约会肯定不好意思吃太多，那不是浪费了吗？正好我也没事干，带上我不会浪费。 https://t.co/m2xUbChwtn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2090004284196966877",
+        "created_at": "2026-08-19T09:13:46.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090004284196966877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmeAsukaLangle…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2089838232662065259",
+              "start": 66,
+              "url": "https://t.co/m2xUbChwtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090004284196966877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089838232662065259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们七夕约会可以带上我吗…我就坐在旁边吃，一句话不说，你们约会肯定不好意思吃太多，那不是浪费了吗？正好我也没事干，带上我不会浪费。 https://t.co/m2xUbChwtn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2089838232662065259",
+        "created_at": "2026-08-18T22:13:56.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089838232662065259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/changhangon341…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/changhangon3413/status/2089753328163193317",
+              "start": 66,
+              "url": "https://t.co/N9d8Q2MBac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089838232662065259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089753328163193317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们七夕约会可以带上我吗…我就坐在旁边吃，一句话不说，你们约会肯定不好意思吃太多，那不是浪费了吗？正好我也没事干，带上我不会浪费。 https://t.co/N9d8Q2MBac"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "你是谁？",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090004284196966877",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 15,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2089995113225482266",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 381,
+          "like_count": 32566,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

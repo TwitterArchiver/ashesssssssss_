@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2091580796864012435",
+    "created_at": "2026-08-23T17:38:16.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091580796864012435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IYDKMIGTHTKY23…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2091564575363825698",
+          "start": 79,
+          "url": "https://t.co/H8bfSmIMiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091580796864012435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091564575363825698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界 https://t.co/H8bfSmIMiS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2091580796864012435",
+        "created_at": "2026-08-23T17:38:16.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091580796864012435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYDKMIGTHTKY23…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2091564575363825698",
+              "start": 79,
+              "url": "https://t.co/H8bfSmIMiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091580796864012435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091564575363825698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界 https://t.co/H8bfSmIMiS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073420644109504513",
+        "conversation_id": "2091564575363825698",
+        "created_at": "2026-08-23T16:33:48.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091564575363825698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/licar1949/stat…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/licar1949/status/2091520621935260054",
+              "start": 79,
+              "url": "https://t.co/fVUrig53dZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091564575363825698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091520621935260054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界 https://t.co/fVUrig53dZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091580796864012435",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 65,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆\n同成分會互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoeggg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoeggg",
+                "start": 0,
+                "url": "https://t.co/05iFF4nElL"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "is_identity_verified": false,
+        "location": "你爸床上",
+        "most_recent_tweet_id": "2091572737362084069",
+        "name": "？💊（3.0）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073420644109504513/1783895478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 520,
+          "like_count": 5722,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/05iFF4nElL",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

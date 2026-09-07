@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2096032651081843040",
+    "created_at": "2026-09-05T00:28:21.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096032651081843040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashesssssssss_…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ashesssssssss_/status/2095842071483744736",
+          "start": 19,
+          "url": "https://t.co/UfsK4erSyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096032651081843040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095842071483744736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打完两把还有手感的人可以去当伟哥保镖 https://t.co/UfsK4erSyY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2096032651081843040",
+        "created_at": "2026-09-05T00:28:21.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096032651081843040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashesssssssss_…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ashesssssssss_/status/2095842071483744736",
+              "start": 19,
+              "url": "https://t.co/UfsK4erSyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096032651081843040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095842071483744736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打完两把还有手感的人可以去当伟哥保镖 https://t.co/UfsK4erSyY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2095842071483744736",
+        "created_at": "2026-09-04T11:51:03.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095842071483744736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095842071483744736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃离塔科夫竞技场的一群camper真是死麻麻了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096032651081843040",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 82,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

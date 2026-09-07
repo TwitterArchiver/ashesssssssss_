@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094328015811477504",
+        "3_2094328022094475264"
+      ],
+      "media_source_tweet_id": [
+        "2094328026817327306",
+        "2094328026817327306"
+      ]
+    },
+    "author_id": "1908794052973084672",
+    "conversation_id": "2094334881681863111",
+    "created_at": "2026-08-31T08:02:01.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094334881681863111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014411515764334592",
+          "start": 3,
+          "username": "maoreidong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1J6P9zu4SA",
+          "end": 101,
+          "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+          "media_key": "3_2094328015811477504",
+          "start": 78,
+          "url": "https://t.co/1J6P9zu4SA"
+        },
+        {
+          "display_url": "pic.x.com/1J6P9zu4SA",
+          "end": 101,
+          "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+          "media_key": "3_2094328022094475264",
+          "start": 78,
+          "url": "https://t.co/1J6P9zu4SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094334881681863111",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2094328015811477504"
+      },
+      {
+        "media_key": "3_2094328022094475264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094328026817327306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maoreidong: if mayhem fans were a race I would suggest genocide upon them https://t.co/1J6P9zu4SA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2404,
+        "media_key": "3_2094328015811477504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCMO_GXgAAQphC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2404,
+        "media_key": "3_2094328022094475264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCMPWgWcAA4S-N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094328015811477504",
+            "3_2094328022094475264"
+          ],
+          "media_source_tweet_id": [
+            "2094328026817327306",
+            "2094328026817327306"
+          ]
+        },
+        "author_id": "1908794052973084672",
+        "conversation_id": "2094334881681863111",
+        "created_at": "2026-08-31T08:02:01.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094334881681863111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014411515764334592",
+              "start": 3,
+              "username": "maoreidong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1J6P9zu4SA",
+              "end": 101,
+              "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+              "media_key": "3_2094328015811477504",
+              "start": 78,
+              "url": "https://t.co/1J6P9zu4SA"
+            },
+            {
+              "display_url": "pic.x.com/1J6P9zu4SA",
+              "end": 101,
+              "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+              "media_key": "3_2094328022094475264",
+              "start": 78,
+              "url": "https://t.co/1J6P9zu4SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094334881681863111",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094328015811477504"
+          },
+          {
+            "media_key": "3_2094328022094475264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094328026817327306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maoreidong: if mayhem fans were a race I would suggest genocide upon them https://t.co/1J6P9zu4SA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094328015811477504",
+            "3_2094328022094475264"
+          ]
+        },
+        "author_id": "2014411515764334592",
+        "conversation_id": "2094328026817327306",
+        "created_at": "2026-08-31T07:34:46.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094328026817327306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1J6P9zu4SA",
+              "end": 85,
+              "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+              "media_key": "3_2094328015811477504",
+              "start": 62,
+              "url": "https://t.co/1J6P9zu4SA"
+            },
+            {
+              "display_url": "pic.x.com/1J6P9zu4SA",
+              "end": 85,
+              "expanded_url": "https://x.com/maoreidong/status/2094328026817327306/photo/1",
+              "media_key": "3_2094328022094475264",
+              "start": 62,
+              "url": "https://t.co/1J6P9zu4SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094328026817327306",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094328015811477504"
+          },
+          {
+            "media_key": "3_2094328022094475264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "if mayhem fans were a race I would suggest genocide upon them https://t.co/1J6P9zu4SA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094334881681863111",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 81,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T18:56:04.000Z",
+        "description": "blackmetalhead loser with mental health issues and an eating disorder | maoist loser",
+        "id": "2014411515764334592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094332956345061642",
+        "name": "alexi ᛏ 🇸🇪",
+        "pinned_tweet_id": "2092471623345434681",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014411515764334592/1783032678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050590055362650112/prWLijBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 513,
+          "like_count": 9021,
+          "listed_count": 8,
+          "media_count": 1414,
+          "tweet_count": 5263
+        },
+        "url": "",
+        "username": "maoreidong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
