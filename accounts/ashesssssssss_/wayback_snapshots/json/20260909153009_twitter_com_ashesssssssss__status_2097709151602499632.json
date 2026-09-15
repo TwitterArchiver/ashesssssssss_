@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2097633725911642292",
+    "created_at": "2026-09-09T15:30:09.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097709151602499632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2002576775872983041",
+          "start": 0,
+          "username": "kb0715hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097709151602499632",
+    "in_reply_to_user_id": "2002576775872983041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097633725911642292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kb0715hh 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2097633725911642292",
+        "created_at": "2026-09-09T15:30:09.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097709151602499632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2002576775872983041",
+              "start": 0,
+              "username": "kb0715hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097709151602499632",
+        "in_reply_to_user_id": "2002576775872983041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097633725911642292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kb0715hh 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002576775872983041",
+        "conversation_id": "2097633725911642292",
+        "created_at": "2026-09-09T10:30:27.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097633725911642292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097633725911642292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1446,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高一的时候我想办走读，我爸不同意，我就没有去学校了，当时我被我爸赶出去，手机也没收没有给我，我在我妈那里住了几个月，每天在客厅打地铺，没有电子产品，每天唯一消耗时间的途径就是看没有会员的电视，发呆，睡觉，割手还有哭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2097709151602499632",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 102,
+          "like_count": 1664,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T03:10:09.000Z",
+        "description": "另一个我@kbkb0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "kbkb0715"
+              }
+            ]
+          }
+        },
+        "id": "2002576775872983041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097671545921347939",
+        "name": "空白",
+        "pinned_tweet_id": "2096919274510328300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002576775872983041/1787974043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096374848494931968/gPs1CQ18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 195,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "kb0715hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

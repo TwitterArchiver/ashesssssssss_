@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2095846084887343350",
+    "created_at": "2026-09-05T13:00:40.000Z",
+    "display_text_range": [
+      35,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096221979057746099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502825119411961858",
+          "start": 0,
+          "username": "8XMWELcoU86FuXy"
+        },
+        {
+          "end": 24,
+          "id": "2079833059592204288",
+          "start": 17,
+          "username": "jh2r7t"
+        },
+        {
+          "end": 34,
+          "id": "1975500696427581440",
+          "start": 25,
+          "username": "TReverie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096221979057746099",
+    "in_reply_to_user_id": "1502825119411961858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096178813583622525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8XMWELcoU86FuXy @jh2r7t @TReverie 在欧洲，你能享受欧元的高购买力是便宜的牛排红酒面包牛奶\n在中国，你能享受的人民币高购买力是让一个男人跨越半个城市给你送外卖\nonly 3cny=60jpy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2095846084887343350",
+        "created_at": "2026-09-05T13:00:40.000Z",
+        "display_text_range": [
+          35,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096221979057746099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502825119411961858",
+              "start": 0,
+              "username": "8XMWELcoU86FuXy"
+            },
+            {
+              "end": 24,
+              "id": "2079833059592204288",
+              "start": 17,
+              "username": "jh2r7t"
+            },
+            {
+              "end": 34,
+              "id": "1975500696427581440",
+              "start": 25,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096221979057746099",
+        "in_reply_to_user_id": "1502825119411961858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096178813583622525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8XMWELcoU86FuXy @jh2r7t @TReverie 在欧洲，你能享受欧元的高购买力是便宜的牛排红酒面包牛奶\n在中国，你能享受的人民币高购买力是让一个男人跨越半个城市给你送外卖\nonly 3cny=60jpy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502825119411961858",
+        "conversation_id": "2095846084887343350",
+        "created_at": "2026-09-05T10:09:08.000Z",
+        "display_text_range": [
+          18,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096178813583622525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2079833059592204288",
+              "start": 0,
+              "username": "jh2r7t"
+            },
+            {
+              "end": 17,
+              "id": "1975500696427581440",
+              "start": 8,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096178813583622525",
+        "in_reply_to_user_id": "2079833059592204288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096148074574016982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jh2r7t @TReverie 中国人って海外行って中国帰ると嫌になる人多いらしいね\nそんなに中国国内腐ってるのかな？\nそー思った人は海外で生活したくなるから\n海外のマナーに合わそうとしてくれる中国人多いから\nその姿勢が好きだわー\n応援したくなっちゃう"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096221979057746099",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-13T01:53:34.000Z",
+        "description": "新しくした。",
+        "id": "1502825119411961858",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096209479641776358",
+        "name": "ビーチボーイズ",
+        "pinned_tweet_id": "1631274197132640258",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962297530034909184/BU6tUuGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "8XMWELcoU86FuXy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T07:38:10.000Z",
+        "description": "我爱我的祖国，虽然她并不完美",
+        "id": "2079833059592204288",
+        "is_identity_verified": false,
+        "location": "山东",
+        "most_recent_tweet_id": "2096148960255922614",
+        "name": "赵磊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079833059592204288/1788594913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079833618042830849/lessWkry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "jh2r7t",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "I'm Chinese",
+        "id": "1975500696427581440",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2096165036934955414",
+        "name": "Tiny Reverie🇺🇸🇯🇵",
+        "pinned_tweet_id": "2093341101356966229",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975500696427581440/1762471319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087442985533538305/tbsIU3l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13862,
+          "following_count": 2058,
+          "like_count": 26724,
+          "listed_count": 99,
+          "media_count": 2002,
+          "tweet_count": 6163
+        },
+        "url": "",
+        "username": "TReverie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2097949407690010917",
+    "created_at": "2026-09-10T07:24:51.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097949407690010917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Le Gala Des Gens Heureux》，别名《幸福人民的盛会》，由 Gris 演唱，收录于《Il Était une Forêt...》专辑中，《Le Gala Des Gens Heureux》下载，《Le Gala Des Gens Heureux》在线试听，更多Le Gala Des Gens Heureux相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=2759…",
+          "end": 23,
+          "expanded_url": "https://y.music.163.com/m/song?id=27591558&userid=6319689253&dlt=0846",
+          "start": 0,
+          "status": 200,
+          "title": "Le Gala Des Gens Heureux（幸福人民的盛会） - Gris - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=27591558&userid=6319689253&dlt=0846",
+          "url": "https://t.co/qbPkI6vmiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097949407690010917",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qbPkI6vmiB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2097949407690010917",
+        "created_at": "2026-09-10T07:24:51.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097949407690010917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Le Gala Des Gens Heureux》，别名《幸福人民的盛会》，由 Gris 演唱，收录于《Il Était une Forêt...》专辑中，《Le Gala Des Gens Heureux》下载，《Le Gala Des Gens Heureux》在线试听，更多Le Gala Des Gens Heureux相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=2759…",
+              "end": 23,
+              "expanded_url": "https://y.music.163.com/m/song?id=27591558&userid=6319689253&dlt=0846",
+              "start": 0,
+              "status": 200,
+              "title": "Le Gala Des Gens Heureux（幸福人民的盛会） - Gris - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=27591558&userid=6319689253&dlt=0846",
+              "url": "https://t.co/qbPkI6vmiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097949407690010917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qbPkI6vmiB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2097949407690010917",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 108,
+          "like_count": 1798,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

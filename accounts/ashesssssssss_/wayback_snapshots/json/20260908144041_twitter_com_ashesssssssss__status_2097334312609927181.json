@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2097269873445654538",
+    "created_at": "2026-09-08T14:40:41.000Z",
+    "display_text_range": [
+      24,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097334312609927181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092605894102241280",
+          "start": 0,
+          "username": "x4b4nw"
+        },
+        {
+          "end": 23,
+          "id": "1996750530350403588",
+          "start": 8,
+          "username": "Yechiasuka1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097334312609927181",
+    "in_reply_to_user_id": "2092605894102241280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097325636096258233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4b4nw @Yechiasuka1204 那我现在的痛苦呢？不见了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2097269873445654538",
+        "created_at": "2026-09-08T14:40:41.000Z",
+        "display_text_range": [
+          24,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097334312609927181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092605894102241280",
+              "start": 0,
+              "username": "x4b4nw"
+            },
+            {
+              "end": 23,
+              "id": "1996750530350403588",
+              "start": 8,
+              "username": "Yechiasuka1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097334312609927181",
+        "in_reply_to_user_id": "2092605894102241280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097325636096258233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4b4nw @Yechiasuka1204 那我现在的痛苦呢？不见了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092605894102241280",
+        "conversation_id": "2097269873445654538",
+        "created_at": "2026-09-08T14:06:12.000Z",
+        "display_text_range": [
+          32,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097325636096258233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            },
+            {
+              "end": 31,
+              "id": "1996750530350403588",
+              "start": 16,
+              "username": "Yechiasuka1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097325636096258233",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097301827087949893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ @Yechiasuka1204 吸毒只会带来更大的痛苦，迷恋成瘾性的事物与自杀一样。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2097334312609927181",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 97,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T13:32:17.000Z",
+        "description": "我的梦想便是尽我所能的追寻理性和真理。",
+        "id": "2092605894102241280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097328333629583805",
+        "name": "碧空子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092605894102241280/1787789714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092767589307154432/441salxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "x4b4nw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-05T01:17:03.000Z",
+        "description": "世界第一缺爱",
+        "id": "1996750530350403588",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097322156585816356",
+        "name": "Yechi!!!",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097129010874761216/c-3K56kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Yechiasuka1204",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

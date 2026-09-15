@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2096930706857619708",
+    "created_at": "2026-09-07T11:56:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096930706857619708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096517972731043840",
+          "start": 3,
+          "username": "Mercydrugs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096930706857619708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096926292822327366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercydrugs1: 找对象。\n\n要求年龄20+，精神状态和我一样癫，精神病必须严重到能排进中推前十，不要回避型依恋，不卡颜，只要不是太丑都能接受。p4本人鱿鱼照片。\n\n本人08.1今年18岁长发男，BD/严重BPD/极度严重DPDR，很温柔，会泛读养你。我只想要一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096926284916125696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJya8AAkuRg.jpg",
+        "width": 486
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284916125697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJya8AEIfFE.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284911906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJxakAAHLf3.jpg",
+        "width": 904
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284928667648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJ1aUAAx7i3.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2096930706857619708",
+        "created_at": "2026-09-07T11:56:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096930706857619708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096517972731043840",
+              "start": 3,
+              "username": "Mercydrugs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096930706857619708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096926292822327366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercydrugs1: 找对象。\n\n要求年龄20+，精神状态和我一样癫，精神病必须严重到能排进中推前十，不要回避型依恋，不卡颜，只要不是太丑都能接受。p4本人鱿鱼照片。\n\n本人08.1今年18岁长发男，BD/严重BPD/极度严重DPDR，很温柔，会泛读养你。我只想要一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096926284916125696",
+            "3_2096926284916125697",
+            "3_2096926284911906816",
+            "3_2096926284928667648"
+          ]
+        },
+        "author_id": "2096517972731043840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096926292822327366",
+        "created_at": "2026-09-07T11:39:21.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096926292822327366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284916125696",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284916125697",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284911906816",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284928667648",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096926292822327366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096926284916125696"
+          },
+          {
+            "media_key": "3_2096926284916125697"
+          },
+          {
+            "media_key": "3_2096926284911906816"
+          },
+          {
+            "media_key": "3_2096926284928667648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找对象。\n\n要求年龄20+，精神状态和我一样癫，精神病必须严重到能排进中推前十，不要回避型依恋，不卡颜，只要不是太丑都能接受。p4本人鱿鱼照片。\n\n本人08.1今年18岁长发男，BD/严重BPD/极度严重DPDR，很温柔，会泛读养你。我只想要一段稳定的关系 我想要有人爱我 我想要一个焦虑型依恋，天天黏着我。 https://t.co/soZNZsiFa7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2096930706857619708",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 89,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T08:37:37.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及兴奋剂、各种致幻剂。",
+        "id": "2096517972731043840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096926292822327366",
+        "name": "Mercy",
+        "pinned_tweet_id": "2096926292822327366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096517972731043840/1788683991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096518421286682624/bG2RCOs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 155,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Mercydrugs1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
