@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2099539250157121674",
+    "created_at": "2026-09-14T16:42:19.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099539250157121674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Raincandy_1937…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Raincandy_1937/status/2099527233539113092",
+          "start": 17,
+          "url": "https://t.co/nNB74Fi38f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099539250157121674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099527233539113092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找个污水厂上班\n哦对了记得学英语 https://t.co/nNB74Fi38f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2099539250157121674",
+        "created_at": "2026-09-14T16:42:19.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099539250157121674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Raincandy_1937…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Raincandy_1937/status/2099527233539113092",
+              "start": 17,
+              "url": "https://t.co/nNB74Fi38f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099539250157121674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099527233539113092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找个污水厂上班\n哦对了记得学英语 https://t.co/nNB74Fi38f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094771136831488",
+        "conversation_id": "2099527233539113092",
+        "created_at": "2026-09-14T15:54:34.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099527233539113092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099527233539113092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遊戲在逃離塔科夫之後就結束了，可是人生怎麼辦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2099539250157121674",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 126,
+          "like_count": 2296,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "is_identity_verified": false,
+        "location": "銀河車站",
+        "most_recent_tweet_id": "2099527287649804636",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094771136831488/1779637288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1776,
+          "like_count": 17581,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 7770
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

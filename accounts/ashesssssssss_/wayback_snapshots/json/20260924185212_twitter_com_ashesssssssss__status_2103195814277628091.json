@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2103024625282343317",
+    "created_at": "2026-09-24T18:52:12.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103195814277628091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665606894499647489",
+          "start": 0,
+          "username": "Hagami8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103195814277628091",
+    "in_reply_to_user_id": "1665606894499647489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103024625282343317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hagami8964 绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103024556298715136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9xsRAbwAAxslW.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2103024625282343317",
+        "created_at": "2026-09-24T18:52:12.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103195814277628091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665606894499647489",
+              "start": 0,
+              "username": "Hagami8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103195814277628091",
+        "in_reply_to_user_id": "1665606894499647489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103024625282343317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hagami8964 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103024556298715136"
+          ]
+        },
+        "author_id": "1665606894499647489",
+        "conversation_id": "2103024625282343317",
+        "created_at": "2026-09-24T07:31:57.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103024625282343317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSJUPebqbT",
+              "end": 25,
+              "expanded_url": "https://x.com/Hagami8964/status/2103024625282343317/photo/1",
+              "media_key": "3_2103024556298715136",
+              "start": 2,
+              "url": "https://t.co/aSJUPebqbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103024625282343317",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103024556298715136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/aSJUPebqbT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2103195814277628091",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 148,
+          "like_count": 3214,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-05T06:30:25.000Z",
+        "description": "是人類？！或許是吧｜無性別 無性戀🖤🩶🤍💜 ｜06 ｜双相情感障碍｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/Iuxe55GEBk\n前世@HagamiMotoyori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "HagamiMotoyori"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 64,
+                "url": "https://t.co/Iuxe55GEBk"
+              }
+            ]
+          }
+        },
+        "id": "1665606894499647489",
+        "is_identity_verified": false,
+        "location": "虛無的盡頭",
+        "most_recent_tweet_id": "2103160353500913702",
+        "name": "⏚羽上元依⏚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665606894499647489/1788264650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098288921465741312/cXKSS2mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 227,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "Hagami8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
