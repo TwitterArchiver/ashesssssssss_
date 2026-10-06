@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2104189731638763761",
+    "created_at": "2026-09-28T10:58:54.000Z",
+    "display_text_range": [
+      34,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104526258474467769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1674492147079483393",
+          "start": 0,
+          "username": "DA98764"
+        },
+        {
+          "end": 20,
+          "id": "2085173242814451712",
+          "start": 9,
+          "username": "yuda4_8964"
+        },
+        {
+          "end": 33,
+          "id": "2007024792172699649",
+          "start": 21,
+          "username": "Yzmtsky6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104526258474467769",
+    "in_reply_to_user_id": "1674492147079483393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104524409528819849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DA98764 @yuda4_8964 @Yzmtsky6666 这他妈谁不怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2104189731638763761",
+        "created_at": "2026-09-28T10:58:54.000Z",
+        "display_text_range": [
+          34,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104526258474467769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1674492147079483393",
+              "start": 0,
+              "username": "DA98764"
+            },
+            {
+              "end": 20,
+              "id": "2085173242814451712",
+              "start": 9,
+              "username": "yuda4_8964"
+            },
+            {
+              "end": 33,
+              "id": "2007024792172699649",
+              "start": 21,
+              "username": "Yzmtsky6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104526258474467769",
+        "in_reply_to_user_id": "1674492147079483393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104524409528819849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DA98764 @yuda4_8964 @Yzmtsky6666 这他妈谁不怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674492147079483393",
+        "conversation_id": "2104189731638763761",
+        "created_at": "2026-09-28T10:51:34.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104524409528819849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            },
+            {
+              "end": 24,
+              "id": "2007024792172699649",
+              "start": 12,
+              "username": "Yzmtsky6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104524409528819849",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104517099745931493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 @Yzmtsky6666 你只是怕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2104526258474467769",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 162,
+          "like_count": 3610,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T18:57:01.000Z",
+        "description": "是个只会散播负能量的肮脏垃圾",
+        "id": "1674492147079483393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104524409528819849",
+        "name": "D",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674492147079483393/1701019098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051858746863951872/DjWCG7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 145,
+          "like_count": 2886,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "DA98764",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2104525830785265881",
+        "name": "𝖞𝖚𝖉𝖆،梦想死了🏴‍☠️四代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1789984331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 136,
+          "like_count": 6505,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "tg群邀请链:https://t.co/TFLondy2En\nmtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，远离成瘾物|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yzmtsky6666",
+                "end": 30,
+                "expanded_url": "https://t.me/yzmtsky6666",
+                "start": 7,
+                "url": "https://t.co/TFLondy2En"
+              }
+            ]
+          }
+        },
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2104440349892792824",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2102321389914988859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007024792172699649/1790069776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 458,
+          "like_count": 2909,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

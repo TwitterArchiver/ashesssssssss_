@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2104164167712145754",
+    "created_at": "2026-09-27T13:00:05.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104194364713152909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092394339292807168",
+          "start": 0,
+          "username": "nyu5u2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104194364713152909",
+    "in_reply_to_user_id": "2092394339292807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104164167712145754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyu5u2 跑路了兄弟跑路啦\n别的都不说了跑路啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104164167712145754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104164167712145754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104164167712145754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2104164167712145754",
+        "created_at": "2026-09-27T13:00:05.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104194364713152909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092394339292807168",
+              "start": 0,
+              "username": "nyu5u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104194364713152909",
+        "in_reply_to_user_id": "2092394339292807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104164167712145754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyu5u2 跑路了兄弟跑路啦\n别的都不说了跑路啦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2104194364713152909",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 3508,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T23:31:45.000Z",
+        "description": "我是忧爱",
+        "id": "2092394339292807168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101254700217802807",
+        "name": "yoi",
+        "pinned_tweet_id": "2092520278148411831",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092394339292807168/1787701863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093550848890818560/uI2A5Ny-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "nyu5u2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

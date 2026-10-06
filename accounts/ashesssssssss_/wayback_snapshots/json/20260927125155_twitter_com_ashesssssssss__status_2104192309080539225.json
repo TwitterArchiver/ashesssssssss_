@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2104186697437307083",
+    "created_at": "2026-09-27T12:51:55.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104192309080539225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828460560545128448",
+          "start": 0,
+          "username": "Nat_3uk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104192309080539225",
+    "in_reply_to_user_id": "1828460560545128448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104186697437307083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nat_3uk1 67！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104186666261061632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOSn9-aoAAdVH2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2104186697437307083",
+        "created_at": "2026-09-27T12:51:55.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104192309080539225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828460560545128448",
+              "start": 0,
+              "username": "Nat_3uk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104192309080539225",
+        "in_reply_to_user_id": "1828460560545128448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104186697437307083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nat_3uk1 67！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104186666261061632"
+          ]
+        },
+        "author_id": "1828460560545128448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2104186697437307083",
+        "created_at": "2026-09-27T12:29:37.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104186697437307083"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "feet"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "sfw"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "stock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmmI54GMwm",
+              "end": 60,
+              "expanded_url": "https://x.com/Nat_3uk1/status/2104186697437307083/photo/1",
+              "media_key": "3_2104186666261061632",
+              "start": 37,
+              "url": "https://t.co/qmmI54GMwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104186697437307083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104186666261061632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "67码大臭脚\n#feet ？#sfw #stock？ \n以前发都没人看😢 https://t.co/qmmI54GMwm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2104192309080539225",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 3495,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 502
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T15:52:37.000Z",
+        "description": "Howdy!!!\nDR/HC/RPG…？ETC\n不固定发疯的非健全b 偶尔发没人看的涩图罢了呃呃还有游戏之类的 混的有点杂\nPLAY WITH ME!!!\n以及压抑完了的人能不能给我打钱当是精神损失费。就当我收🚪了好吗好的v我388。正常交友可以的\n中文/En",
+        "id": "1828460560545128448",
+        "is_identity_verified": false,
+        "location": "距离 12.25km",
+        "most_recent_tweet_id": "2104190828243783826",
+        "name": "Natsuki",
+        "pinned_tweet_id": "2104081671176007992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828460560545128448/1724871194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828461405236084736/UpNS5N_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 81,
+          "like_count": 3255,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "Nat_3uk1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

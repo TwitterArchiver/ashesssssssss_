@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2106835096460529917",
+    "created_at": "2026-10-04T19:53:24.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T20:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106835096460529917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106835096460529917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想去做鸡了，毕竟来钱是真的快，有活就行。而且我长得还漂亮，做得好天天都有人上门槛。而我要做的就是把鸡肉炸的酥酥脆脆，再撒上好吃的调料，来个客人还有烤鸡什么的。过几天我再去学学做辣子鸡，不得不说做鸡是真的好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2106835096460529917",
+        "created_at": "2026-10-04T19:53:24.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T20:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106835096460529917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106835096460529917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去做鸡了，毕竟来钱是真的快，有活就行。而且我长得还漂亮，做得好天天都有人上门槛。而我要做的就是把鸡肉炸的酥酥脆脆，再撒上好吃的调料，来个客人还有烤鸡什么的。过几天我再去学学做辣子鸡，不得不说做鸡是真的好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2106835096460529917",
+        "name": "Ashessssss",
+        "pinned_tweet_id": "2106427345112605139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 4173,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

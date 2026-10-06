@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103734057293283328"
+      ]
+    },
+    "author_id": "1908794052973084672",
+    "conversation_id": "2103721035598377198",
+    "created_at": "2026-09-26T06:31:00.000Z",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103734063681228910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747241620754337792",
+          "start": 0,
+          "username": "tanggnat8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlBuztPlo2",
+          "end": 37,
+          "expanded_url": "https://x.com/ashesssssssss_/status/2103734063681228910/photo/1",
+          "media_key": "3_2103734057293283328",
+          "start": 14,
+          "url": "https://t.co/wlBuztPlo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103734063681228910",
+    "in_reply_to_user_id": "1747241620754337792",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103734057293283328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103732718794404296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanggnat8964 https://t.co/wlBuztPlo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2103734057293283328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTH2-qLbgAA9izx.jpg",
+        "width": 512
+      },
+      {
+        "height": 970,
+        "media_key": "3_2103732711135596544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTH1wTWbUAAQZzd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103734057293283328"
+          ]
+        },
+        "author_id": "1908794052973084672",
+        "conversation_id": "2103721035598377198",
+        "created_at": "2026-09-26T06:31:00.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103734063681228910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747241620754337792",
+              "start": 0,
+              "username": "tanggnat8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlBuztPlo2",
+              "end": 37,
+              "expanded_url": "https://x.com/ashesssssssss_/status/2103734063681228910/photo/1",
+              "media_key": "3_2103734057293283328",
+              "start": 14,
+              "url": "https://t.co/wlBuztPlo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103734063681228910",
+        "in_reply_to_user_id": "1747241620754337792",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103734057293283328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103732718794404296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanggnat8964 https://t.co/wlBuztPlo2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103732711135596544"
+          ]
+        },
+        "author_id": "1747241620754337792",
+        "conversation_id": "2103721035598377198",
+        "created_at": "2026-09-26T06:25:40.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103732718794404296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYRBknsKMh",
+              "end": 39,
+              "expanded_url": "https://x.com/tanggnat8964/status/2103732718794404296/photo/1",
+              "media_key": "3_2103732711135596544",
+              "start": 16,
+              "url": "https://t.co/dYRBknsKMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103732718794404296",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103732711135596544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103721035598377198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ https://t.co/dYRBknsKMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2103734063681228910",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 148,
+          "like_count": 3329,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T12:58:03.000Z",
+        "description": "",
+        "id": "1747241620754337792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103732718794404296",
+        "name": "共花和国🏳️‍⚧️🏳️‍⚧️🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747241620754337792/1790349335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103503688061054976/ZP4KKdVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 179,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "tanggnat8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

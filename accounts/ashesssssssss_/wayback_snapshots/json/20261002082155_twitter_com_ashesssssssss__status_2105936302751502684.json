@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2105936302751502684",
+    "created_at": "2026-10-02T08:21:55.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105936302751502684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mzmorz8964/sta…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/mzmorz8964/status/2105934655350591606",
+          "start": 69,
+          "url": "https://t.co/UKNZxwVXb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105936302751502684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105934655350591606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地雷男多可爱啊，他们只是需要救赎而已，为什么都在那骂地雷男😭你眼中的地雷男，我眼中的宝藏👍，我愿意做饭，陪他出cos，真的喜欢病态的爱😭 https://t.co/UKNZxwVXb7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2105936302751502684",
+        "created_at": "2026-10-02T08:21:55.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105936302751502684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mzmorz8964/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/mzmorz8964/status/2105934655350591606",
+              "start": 69,
+              "url": "https://t.co/UKNZxwVXb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105936302751502684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105934655350591606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地雷男多可爱啊，他们只是需要救赎而已，为什么都在那骂地雷男😭你眼中的地雷男，我眼中的宝藏👍，我愿意做饭，陪他出cos，真的喜欢病态的爱😭 https://t.co/UKNZxwVXb7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2105934655350591606",
+        "created_at": "2026-10-02T08:15:22.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105934655350591606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2105843316990550291",
+              "start": 69,
+              "url": "https://t.co/DXNlcPBdYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105934655350591606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105843316990550291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地雷妹多可爱啊，她们只是需要救赎而已，为什么都在那骂地雷妹😭你眼中的地雷妹，我眼中的宝藏👍，我愿意做饭，陪她出cos，真的喜欢病态的爱😭 https://t.co/DXNlcPBdYH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2105936302751502684",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 170,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "惶惶人心，千面无相\n这里是教主sama，间宫皆守人间体\n我已经遇到了自己的水上由岐 @yuu00u00\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "yuu00u00"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2105934655350591606",
+        "name": "Mis_Siah☤",
+        "pinned_tweet_id": "2103846767154618497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787691792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099475100668174338/N87dkzVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 255,
+          "like_count": 2212,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

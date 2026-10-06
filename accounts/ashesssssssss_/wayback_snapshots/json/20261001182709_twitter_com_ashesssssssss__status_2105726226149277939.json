@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2105660573459554742",
+    "created_at": "2026-10-01T18:27:09.000Z",
+    "display_text_range": [
+      26,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105726226149277939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "AmeAsukaLangley"
+        },
+        {
+          "end": 25,
+          "id": "1926443103818309632",
+          "start": 17,
+          "username": "w090333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105726226149277939",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105725450114740705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAsukaLangley @w090333 😭😭😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2105660573459554742",
+        "created_at": "2026-10-01T18:27:09.000Z",
+        "display_text_range": [
+          26,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105726226149277939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            },
+            {
+              "end": 25,
+              "id": "1926443103818309632",
+              "start": 17,
+              "username": "w090333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105726226149277939",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105725450114740705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley @w090333 😭😭😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2105660573459554742",
+        "created_at": "2026-10-01T18:24:04.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105725450114740705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908794052973084672",
+              "start": 0,
+              "username": "ashesssssssss_"
+            },
+            {
+              "end": 24,
+              "id": "1926443103818309632",
+              "start": 16,
+              "username": "w090333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105725450114740705",
+        "in_reply_to_user_id": "1908794052973084672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105661217322959104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashesssssssss_ @w090333 神了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2105726226149277939",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 170,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2105725801031450898",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 401,
+          "like_count": 36685,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-25T01:01:30.000Z",
+        "description": "Society failed to tolerate me，and I have failed to tolerate the society",
+        "id": "1926443103818309632",
+        "is_identity_verified": false,
+        "location": "The Erathia land ",
+        "most_recent_tweet_id": "2105694356682469594",
+        "name": "w0903",
+        "pinned_tweet_id": "2105670798484930788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926443103818309632/1777257784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099033125934481408/5qpitrqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 161,
+          "like_count": 9950,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "w090333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

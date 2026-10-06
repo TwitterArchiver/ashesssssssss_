@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2105503825176244571",
+    "created_at": "2026-10-01T07:31:55.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105561329516118336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083196399211200512",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105561329516118336",
+    "in_reply_to_user_id": "2083196399211200512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105503825176244571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2105503825176244571",
+        "created_at": "2026-10-01T07:31:55.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105561329516118336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083196399211200512",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105561329516118336",
+        "in_reply_to_user_id": "2083196399211200512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105503825176244571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083196399211200512",
+        "conversation_id": "2105503825176244571",
+        "created_at": "2026-10-01T03:43:24.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105503825176244571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105503825176244571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊呀我怎麼也會叫媽媽了\n真是被你們教壞了呢😇😇🤤☝️🤓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2105561329516118336",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 169,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　\nAGENDER | AROMANTIC ASEXUAL \nsh/od twt\njoined 31/7/26 (5th acc\n\n████████████████████",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuukiwtf",
+                "end": 23,
+                "expanded_url": "http://x.com/kuukiwtf",
+                "start": 0,
+                "url": "https://t.co/aDk4cjJeIM"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": true,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2105559059336442153",
+        "name": "kuuki",
+        "pinned_tweet_id": "2091204360248381856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 268,
+          "like_count": 11123,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/aDk4cjJeIM",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2104377366051184756",
+    "created_at": "2026-09-28T01:07:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104377366051184756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732763258325762048",
+          "start": 3,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104377366051184756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104237645983355113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeAsukaLangley: 总之欢迎助力我吃上明天的饭，这下是真的穷疯了还剩一块七，国庆后真该想办法找工作了，但是后话，主要是我如果能恢复正常作息就好了，感觉夜班好难找，而且我留的长头发不想剪但是很多工作要求男的必须短发，谢谢你们可以助力我吃上饭，感激不尽。 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2104237615058751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPA9lCXkAA8icv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2104377366051184756",
+        "created_at": "2026-09-28T01:07:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104377366051184756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732763258325762048",
+              "start": 3,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104377366051184756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104237645983355113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeAsukaLangley: 总之欢迎助力我吃上明天的饭，这下是真的穷疯了还剩一块七，国庆后真该想办法找工作了，但是后话，主要是我如果能恢复正常作息就好了，感觉夜班好难找，而且我留的长头发不想剪但是很多工作要求男的必须短发，谢谢你们可以助力我吃上饭，感激不尽。 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104237615058751488"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2104237645983355113",
+        "created_at": "2026-09-27T15:52:04.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104237645983355113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5qdbLZBpo",
+              "end": 139,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2104237645983355113/photo/1",
+              "media_key": "3_2104237615058751488",
+              "start": 116,
+              "url": "https://t.co/l5qdbLZBpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104237645983355113",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104237615058751488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总之欢迎助力我吃上明天的饭，这下是真的穷疯了还剩一块七，国庆后真该想办法找工作了，但是后话，主要是我如果能恢复正常作息就好了，感觉夜班好难找，而且我留的长头发不想剪但是很多工作要求男的必须短发，谢谢你们可以助力我吃上饭，感激不尽。 https://t.co/l5qdbLZBpo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2104377366051184756",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 162,
+          "like_count": 3521,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2104249215916654657",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 399,
+          "like_count": 36350,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

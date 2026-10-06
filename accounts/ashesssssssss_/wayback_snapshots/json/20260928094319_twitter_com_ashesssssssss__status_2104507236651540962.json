@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1908794052973084672",
+    "conversation_id": "2104454447057481756",
+    "created_at": "2026-09-28T09:43:19.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104507236651540962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828460560545128448",
+          "start": 0,
+          "username": "Nat_3uk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104507236651540962",
+    "in_reply_to_user_id": "1828460560545128448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104454447057481756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nat_3uk1 收藏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3676,
+        "media_key": "3_2104454402719502336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSGISAaUAAQBPp.jpg",
+        "width": 3224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2104454447057481756",
+        "created_at": "2026-09-28T09:43:19.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104507236651540962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828460560545128448",
+              "start": 0,
+              "username": "Nat_3uk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104507236651540962",
+        "in_reply_to_user_id": "1828460560545128448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104454447057481756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nat_3uk1 收藏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104454402719502336"
+          ]
+        },
+        "author_id": "1828460560545128448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2104454447057481756",
+        "created_at": "2026-09-28T06:13:33.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104454447057481756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "feet"
+            },
+            {
+              "end": 41,
+              "start": 39,
+              "tag": "脚"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "东北雨姐"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "toes"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "stock"
+            },
+            {
+              "end": 86,
+              "start": 61,
+              "tag": "flowersbloomsinyourheart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywcf55p9OQ",
+              "end": 110,
+              "expanded_url": "https://x.com/Nat_3uk1/status/2104454447057481756/photo/1",
+              "media_key": "3_2104454402719502336",
+              "start": 87,
+              "url": "https://t.co/ywcf55p9OQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104454447057481756",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104454402719502336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1547,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然真的2k了😢\n有点丑了呃\n要是恶心到你们我就删了😢对不己👉👈\n#feet #脚？#东北雨姐 #toes #stock #flowersbloomsinyourheart https://t.co/ywcf55p9OQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "location": "互fo谢谢喵",
+        "most_recent_tweet_id": "2104507236651540962",
+        "name": "Ashessssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 162,
+          "like_count": 3597,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T15:52:37.000Z",
+        "description": "Howdy!!!\nDR/HC/RPG…？ETC\n不固定发疯的非健全b 偶尔发没人看的涩图罢了呃呃还有游戏之类的 混的有点杂\nPLAY WITH ME!!!\n以及压抑完了的人能不能给我打钱当是精神损失费。就当我收🚪了好吗好的v我388。正常交友可以的\n中文/En",
+        "id": "1828460560545128448",
+        "is_identity_verified": false,
+        "location": "距离 12.25km",
+        "most_recent_tweet_id": "2104504701299621988",
+        "name": "Natsuki",
+        "pinned_tweet_id": "2104081671176007992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828460560545128448/1724871194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828461405236084736/UpNS5N_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 80,
+          "like_count": 3399,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "Nat_3uk1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
